@@ -37,6 +37,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 # Contact
 For any inquiries or feedback, please contact:
 
-[Piyush Kumar](linkedin.com/in/piyush-kumar-8b89311b7)
+[Birendra Kumar](https://www.linkedin.com/in/birendra-kumar-0b1a57234/)
 # Acknowledgements
 Special thanks to Weather API for providing real-time weather data.
